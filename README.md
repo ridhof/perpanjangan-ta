@@ -47,7 +47,7 @@ Hal-hal atau berkas-berkas yang dibutuhkan untuk proses perpanjangan TA yakni:
 5. Form Perpanjangan ([Download](#Download))
 6. Surat Permohonan ([Download](#Download))
 
-Kumpulkan di PAJ setelah ditandatangani 2 dosbing.
+Kumpulkan di PAJ setelah Surat Permohonan telah ditandatangani oleh kedua Dosen Pembimbing dan Form Permohonan telah ditandatangi oleh kedua Dosen Pembimbing dan Ketua Jurusan (Kajur).
 
 # Gantt Chart
 Gantt Chart untuk Timeline Pengerjaan selama masa Perpanjangan
